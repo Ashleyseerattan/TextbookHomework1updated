@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b660f97b-e7b3-42eb-9c34-28d8cbdf4308" name="Changes" comment="add Chocolate.java">
+    <list default="true" id="b660f97b-e7b3-42eb-9c34-28d8cbdf4308" name="Changes" comment="Completed">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SpeedLight.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SpeedLight.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Chocolate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chocolate.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +52,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1675364860120</updated>
-      <workItem from="1675364861187" duration="3226000" />
+      <workItem from="1675364861187" duration="5323000" />
     </task>
     <task id="LOCAL-00001" summary="added commented line.">
       <created>1675366395253</created>
@@ -82,7 +82,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675367467724</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Completed">
+      <created>1675368899527</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1675368899527</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -91,6 +98,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="added commented line." />
     <MESSAGE value="add Chocolate.java" />
-    <option name="LAST_COMMIT_MESSAGE" value="add Chocolate.java" />
+    <MESSAGE value="Completed" />
+    <option name="LAST_COMMIT_MESSAGE" value="Completed" />
   </component>
 </project>
