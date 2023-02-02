@@ -19,4 +19,3 @@ public class SpeedLight {
        System.out.println("Distance:" + distance);
 
     }
-}

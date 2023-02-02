@@ -14,16 +14,4 @@ public class Chocolate {
       System.out.print( total_bag * each_bag);
       int new_each_bag = 3;
       System.out.print("total_chcolates"/new_each_bag);
-
-
-
-
-
-
-
-
-
-
-
-
     }
