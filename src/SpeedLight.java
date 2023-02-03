@@ -10,12 +10,14 @@
  * distance
  */
 public class SpeedLight {
-    public static void main(String[]args){
-       int SPEED_OF_SOUND = 340;
-       int timeElapsed = 5;
-       int distance = SPEED_OF_SOUND * timeElapsed;
-       System.out.print("Speed of sound:" + SPEED_OF_SOUND);
-       System.out.println("Time Elapsed: " + timeElapsed);
-       System.out.println("Distance:" + distance);
+    public static void main(String[] args) {
+        int SPEED_OF_SOUND = 340;
+        int timeElapsed = 5;
+        int distance = SPEED_OF_SOUND * timeElapsed;
+        System.out.print("Speed of sound:" + SPEED_OF_SOUND);
+        System.out.println("Time Elapsed: " + timeElapsed);
+        System.out.println("Distance:" + distance);
 
     }
+}
+

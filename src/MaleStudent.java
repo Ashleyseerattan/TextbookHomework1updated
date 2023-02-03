@@ -9,3 +9,4 @@ public class MaleStudent {
         int total = 389, girls = 175, boys;
         System.out.printf("total - girls);
     }
+}
